@@ -324,9 +324,9 @@ The findings highlight the importance of selecting appropriate distributions, ha
 
 ## 👨‍💻 Author
 
-**Pratik Patil**
+**Mukesh Kote**
 
-GitHub: [@Pratik-Patil-AI](https://github.com/Pratik-Patil-AI)
+GitHub: [@Mukesh-Kote-Official](https://github.com/Mukesh-Kote-Official)
 
 **Project:** Spread Locator – Statistical Distribution Analysis (PR3)
 
